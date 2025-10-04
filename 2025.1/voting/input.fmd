@@ -202,10 +202,10 @@ So, now you know all the submissions, let's get voting for the best!
 
 ? Vote for your favourite in the following categories:
 {type:matrix_radio,id:main}
-1. Mack LR X Wing | 2. 8448 MOD | 3. Modular Tow Truck | 4. Lamborghini Huracan | 5. Porsche 911 | 6. McLaren Senna
+1\. Mack LR X Wing | 2\. 8448 MOD | 3\. Modular Tow Truck | 4\. Lamborghini Huracan | 5\. Porsche 911 | 6\. McLaren Senna
 best aesthetics
 most/best play-features
-best display factor
+best display factor	
 most likely to build
 best instructions quality
 best image quality
@@ -214,12 +214,12 @@ best pneumatic functions (e.g. complexity)
 overall best
 
 ? How well do the following submissions reassemble their real-life counterparts?
-{type=matrix_radio}
+{type=matrix_radio,id:real-life}
 1 | 2 | 3 | 4 | 5 | No Answer
-[Mack LR X Wing](https://rebrickable.com/mocs/MOC-232456/) / X-Wing (Star Wars)
+Mack LR X Wing / X-Wing (Star Wars)
 Modular Tow Truck / Chevrolet Silverado
-[1:8-RC Lamborghini Huracan Performante LP-640](https://rebrickable.com/mocs/MOC-222356) / Lamborghini Huracan Performante
+1:8-RC Lamborghini Huracan Performante LP-640 / Lamborghini Huracan Performante
 Porsche 911 GT3 RS / Porsche 911 GT3 RS
-[42196 McLaren Senna](https://rebrickable.com/mocs/MOC-226109/) / LEGO® Set [42123-1 - McLaren Senna GTR](https://rebrickable.com/sets/42123-1/)
+42196 McLaren Senna / LEGO® Set 42123-1 - McLaren Senna GTR
 
 Thanks for voting! Click Submit below to send me your votes.
